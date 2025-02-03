@@ -1,0 +1,962 @@
+{
+    "data": {
+        "result": {
+            "items": {
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "WyJvcmRlcl9hc2MiLCJwdWJsaXNoX2RhdGVfZGVzYyIsW251bGwsIjIwMjQtMTAtMTlUMTk6MDQ6MDArMDI6MDAiLDEzODA1NDg1XV0="
+                },
+                "nodes": [
+                    {
+                        "id": "13984323",
+                        "coreId": "urn:ard:publication:fcaf9a3ac4949d22",
+                        "title": "Kim und der wirklichwahre Wandelstern - Sternstunde im Winter",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Kim und der wirklichwahre Wandelstern - Sternstunde im Winter/13984323/20241212_1112",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Kim und der wirklichwahre Wandelstern - Sternstunde im Winter",
+                            "fusionId": "urn:ard:episode-fusion:387aef85c5d5ded2",
+                            "avContent": {
+                                "av_content": "Kim und der wirklichwahre Wandelstern - Sternstunde im Winter",
+                                "av_content_id": "urn:ard:publication:fcaf9a3ac4949d22",
+                                "av_content_duration": 3121000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Kim und der wirklichwahre Wandelstern - Sternstunde im Winter/13984323/20241212_1112",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Kim und der wirklichwahre Wandelstern - Sternstunde im Winter",
+                                "clipLength": "3121",
+                                "contentId": "13984323",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:fcaf9a3ac4949d22",
+                                "publicationDate": "20241212"
+                            }
+                        },
+                        "publishDate": "2024-12-21T19:06:12+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 An Weihnachten geboren zu sein ist super besonders. Kim ist stolz darauf, obwohl es nat\u00fcrlich nur einmal Geschenke gibt. Aber als Kim erf\u00e4hrt, dass der Weihnachtsstern gar kein Stern ist, stellt sie mehr als ihren eigenen Geb",
+                        "duration": 3121,
+                        "path": "/episode/maushoerspiel-lang/kim-und-der-wirklichwahre-wandelstern-sternstunde-im-winter/die-maus/13984323/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a17da9426a4282ca?w={width}&ch=f35e2abd0a927cf1",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a8f78f0439e9abc4?w={width}&ch=a39254913a7bbd84",
+                            "description": "3D Illustration von einem lachenden Stern im Himmel.",
+                            "attribution": "Chromorange / newspixx vario images"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221097/3221097_60343921.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221097/3221097_60343921.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221097/3221097_60343921.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13966535",
+                        "coreId": "urn:ard:publication:178a028706d6c8a2",
+                        "title": "Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich/13966535/20241206_1012",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich",
+                            "fusionId": "urn:ard:episode-fusion:0356f476a1fc8402",
+                            "avContent": {
+                                "av_content": "Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich",
+                                "av_content_id": "urn:ard:publication:178a028706d6c8a2",
+                                "av_content_duration": 3152000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich/13966535/20241206_1012",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Die kleine Hexe (2/2): Der gr\u00f6\u00dfte Streich",
+                                "clipLength": "3152",
+                                "contentId": "13966535",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:178a028706d6c8a2",
+                                "publicationDate": "20241206"
+                            }
+                        },
+                        "publishDate": "2024-12-07T19:08:05+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 6 Jahren\u2022 Zur Strafe f\u00fcr ihre heimliche Teilnahme muss die kleine Hexe versprechen, eine gute Hexe zu werden. Aber was macht eine gute Hexe aus? \u00dcbers Jahr hinweg hext sie so einiges Gutes und Verr\u00fccktes. Was der Hexenrat wohl dazu sag",
+                        "duration": 3152,
+                        "path": "/episode/maushoerspiel-lang/die-kleine-hexe-2-2-der-groesste-streich/die-maus/13966535/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ad605b4b6de05d3a?w={width}&ch=7c4821d49c16ca54",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:6e502ccc89f16ea5?w={width}&ch=c795bcb3ca42164a",
+                            "description": "Illustration: Die kleine Hexe auf ihrem Besen.",
+                            "attribution": "DuMont Kalenderverlag/WDR / picture alliance / dpa"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3218396/3218396_60265210.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3218396/3218396_60265210.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/321/3218396/3218396_60265210.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13966529",
+                        "coreId": "urn:ard:publication:b03e772f85261c97",
+                        "title": "Die kleine Hexe (1/2): Heia Walpurgisnacht",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die kleine Hexe (1/2): Heia Walpurgisnacht/13966529/20241206_1012",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Die kleine Hexe (1/2): Heia Walpurgisnacht",
+                            "fusionId": "urn:ard:episode-fusion:0084e05577e155ee",
+                            "avContent": {
+                                "av_content": "Die kleine Hexe (1/2): Heia Walpurgisnacht",
+                                "av_content_id": "urn:ard:publication:b03e772f85261c97",
+                                "av_content_duration": 3140000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die kleine Hexe (1/2): Heia Walpurgisnacht/13966529/20241206_1012",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Die kleine Hexe (1/2): Heia Walpurgisnacht",
+                                "clipLength": "3140",
+                                "contentId": "13966529",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:b03e772f85261c97",
+                                "publicationDate": "20241206"
+                            }
+                        },
+                        "publishDate": "2024-12-07T19:06:02+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 6 Jahren\u2022 Mit 127 Jahren ist die kleine Hexe zu jung, um mit den gro\u00dfen Hexen in der Walpurgisnacht zu tanzen. Doch sie feiert einfach trotzdem mit - und wird erwischt.\r\n\r\nVon Otfried Preu\u00dfler\r\nWDR 2007\r\nwww.wdrmaus.de",
+                        "duration": 3140,
+                        "path": "/episode/maushoerspiel-lang/die-kleine-hexe-1-2-heia-walpurgisnacht/die-maus/13966529/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ad605b4b6de05d3a?w={width}&ch=7c4821d49c16ca54",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:6e502ccc89f16ea5?w={width}&ch=c795bcb3ca42164a",
+                            "description": "Illustration: Die kleine Hexe auf ihrem Besen.",
+                            "attribution": "DuMont Kalenderverlag/WDR / picture alliance / dpa"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3218394/3218394_60265146.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3218394/3218394_60265146.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/321/3218394/3218394_60265146.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13939087",
+                        "coreId": "urn:ard:publication:ebd534459b30078a",
+                        "title": "Super-Laura - Gemeinsam gegen die M\u00e4chtigen",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Super-Laura - Gemeinsam gegen die M\u00e4chtigen/13939087/20241129_1011",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Super-Laura - Gemeinsam gegen die M\u00e4chtigen",
+                            "fusionId": "urn:ard:episode-fusion:e8befbd46ab47e2d",
+                            "avContent": {
+                                "av_content": "Super-Laura - Gemeinsam gegen die M\u00e4chtigen",
+                                "av_content_id": "urn:ard:publication:ebd534459b30078a",
+                                "av_content_duration": 2872000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Super-Laura - Gemeinsam gegen die M\u00e4chtigen/13939087/20241129_1011",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Super-Laura - Gemeinsam gegen die M\u00e4chtigen",
+                                "clipLength": "2872",
+                                "contentId": "13939087",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:ebd534459b30078a",
+                                "publicationDate": "20241129"
+                            }
+                        },
+                        "publishDate": "2024-11-30T19:04:00+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Nach Super-Bruno und Super-Matze schmiedet nun Super-Laura raffinierte Pl\u00e4ne: Ein stinkreicher Unternehmer will ausgerechnet dort eine riesige H\u00fchnerfarm hochziehen, wo jetzt Lauras H\u00fctte steht. Da ist Superhelden-Hilfe gefra",
+                        "duration": 2872,
+                        "path": "/episode/maushoerspiel-lang/super-laura-gemeinsam-gegen-die-maechtigen/die-maus/13939087/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b0034cd53232f4d5?w={width}&ch=303d10e77949d9f3",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:f2df8148709407b8?w={width}&ch=95f0c200cb8e2b74",
+                            "description": "Drei Kinde rin Superhelden Kost\u00fcmen.",
+                            "attribution": "Elada Vasilyeva / picture alliance / Zoonar"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3214842/3214842_60158046.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3214842/3214842_60158046.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/321/3214842/3214842_60158046.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13916697",
+                        "coreId": "urn:ard:publication:73006e0d3c3c1cb4",
+                        "title": "Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven/13916697/20241122_1011",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven",
+                            "fusionId": "urn:ard:episode-fusion:6f37227566e1cdd3",
+                            "avContent": {
+                                "av_content": "Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven",
+                                "av_content_id": "urn:ard:publication:73006e0d3c3c1cb4",
+                                "av_content_duration": 3125000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven/13916697/20241122_1011",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Anne und die Bankr\u00e4uber - Durcheinander mit Ganoven",
+                                "clipLength": "3125",
+                                "contentId": "13916697",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:73006e0d3c3c1cb4",
+                                "publicationDate": "20241122"
+                            }
+                        },
+                        "publishDate": "2024-11-23T19:06:30+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Auf der Beerdigung von Annes Oma tauchen pl\u00f6tzlich zwei fiese Ganoven auf: Die Bankr\u00e4uber Brat-Kurt und Auto-Meier. Das kann ja nur ein Durcheinander werden!\r\n\r\nVon Erwin Grosche\r\nWDR 2019\r\nwww.wdrmaus.de",
+                        "duration": 3125,
+                        "path": "/episode/maushoerspiel-lang/anne-und-die-bankraeuber-durcheinander-mit-ganoven/die-maus/13916697/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:3a4a653acb19184f?w={width}&ch=84316a30c413aec3",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5a8b842c691b5ded?w={width}&ch=5cad381b01849929",
+                            "description": "Illustration: M\u00e4dchen mit Brille steht im Regen.",
+                            "attribution": "picture alliance / Ikon Images/Veronica Grech"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3211203/3211203_60057455.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/321/3211203/3211203_60057455.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/321/3211203/3211203_60057455.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13895479",
+                        "coreId": "urn:ard:publication:c513e36cbd8d262e",
+                        "title": "Die Unsinkbaren Drei: Musikstunden - Piratenradau",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die Unsinkbaren Drei: Musikstunden - Piratenradau/13895479/20241115_0911",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Die Unsinkbaren Drei: Musikstunden - Piratenradau",
+                            "fusionId": "urn:ard:episode-fusion:067f08a7635e38a8",
+                            "avContent": {
+                                "av_content": "Die Unsinkbaren Drei: Musikstunden - Piratenradau",
+                                "av_content_id": "urn:ard:publication:c513e36cbd8d262e",
+                                "av_content_duration": 2801000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Die Unsinkbaren Drei: Musikstunden - Piratenradau/13895479/20241115_0911",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Die Unsinkbaren Drei: Musikstunden - Piratenradau",
+                                "clipLength": "2801",
+                                "contentId": "13895479",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:c513e36cbd8d262e",
+                                "publicationDate": "20241115"
+                            }
+                        },
+                        "publishDate": "2024-11-17T19:04:41+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Die Unsinkbaren Drei sind selbstverst\u00e4ndlich die besten Piraten der Welt. Um sich mal wieder so richtig in Fahrt in zu bringen, gibt\u2019s Musikstunden - und die bringen so manche \u00dcberraschung. \r\n\r\nVon Wilhelm N\u00fcnnerich \r\nWDR 201",
+                        "duration": 2801,
+                        "path": "/episode/maushoerspiel-lang/die-unsinkbaren-drei-musikstunden-piratenradau/die-maus/13895479/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:f6d87a22192eeef1?w={width}&ch=6fd01b8ec044f9b7",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:3f3ed1e4db74836e?w={width}&ch=c2f700e62a5918e4",
+                            "description": "Illustration: Drei Piraten lachen miteinander.",
+                            "attribution": "picture alliance / dieKLEINERT.de / Rudolf Schupple"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3207553/3207553_59951327.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3207553/3207553_59951327.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3207553/3207553_59951327.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13843671",
+                        "coreId": "urn:ard:publication:3975897657b09c66",
+                        "title": "Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck/13843671/20241031_1110",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck",
+                            "fusionId": "urn:ard:episode-fusion:0d1e2251c9f91691",
+                            "avContent": {
+                                "av_content": "Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck",
+                                "av_content_id": "urn:ard:publication:3975897657b09c66",
+                                "av_content_duration": 3105000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck/13843671/20241031_1110",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Florentine Blix. Geheimakte Flaschenpost (2/2): Das Versteck",
+                                "clipLength": "3105",
+                                "contentId": "13843671",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:3975897657b09c66",
+                                "publicationDate": "20241031"
+                            }
+                        },
+                        "publishDate": "2024-11-02T19:08:00+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Florentine ahnt, wer der Dieb ist und mit Hilfe von Maja und Bo findet sie den Schatz. Leider wird der aber von der vor 611 Jahren gestorbenen K\u00f6nigin Margarethe bewacht. \r\n\r\nVon Alice Panterm\u00fcller\r\nWDR 2024\r\nwww.wdr.de/k/hoe",
+                        "duration": 3105,
+                        "path": "/episode/maushoerspiel-lang/florentine-blix-geheimakte-flaschenpost-2-2-das-versteck/die-maus/13843671/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b6d1369a3cc4dd11?w={width}&ch=17bc92b2f30eecb6",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ec776bd4db2b4241?w={width}&ch=2e25f2e5cd9e092b",
+                            "description": "Florentine Blix hat rote Haare und ein gr\u00fcnes Oberteil. Im Hintergrund sieht man ihre Schatzkarte und Flaschenpost.",
+                            "attribution": "Lorraine Johnson/picture alliance/Dorling Kindersley/dieKLEINERT.de/Laura M\u00fcnker/WDR/mauritius images/Idalba Granada/Alamy"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3200203/3200203_59746589.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3200203/3200203_59746589.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3200203/3200203_59746589.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13843667",
+                        "coreId": "urn:ard:publication:b0899b7dae378eeb",
+                        "title": "Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte/13843667/20241031_1110",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte",
+                            "fusionId": "urn:ard:episode-fusion:d9e13ebb10f394c9",
+                            "avContent": {
+                                "av_content": "Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte",
+                                "av_content_id": "urn:ard:publication:b0899b7dae378eeb",
+                                "av_content_duration": 3095000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte/13843667/20241031_1110",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Florentine Blix. Geheimakte Flaschenpost (1/2): Die Schatzkarte",
+                                "clipLength": "3095",
+                                "contentId": "13843667",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:b0899b7dae378eeb",
+                                "publicationDate": "20241031"
+                            }
+                        },
+                        "publishDate": "2024-11-02T19:06:00+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Florentine und Maja finden eine Flaschenpost am Strand und in der Flasche steckt eine Art Schatzplan. Florentine ist begeistert, denn es scheint um einen Juwelenraub zu gehen. \r\n\r\nVon Alice Panterm\u00fcller\r\nWDR 2024\r\nwww.wdr.de/",
+                        "duration": 3095,
+                        "path": "/episode/maushoerspiel-lang/florentine-blix-geheimakte-flaschenpost-1-2-die-schatzkarte/die-maus/13843667/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b6d1369a3cc4dd11?w={width}&ch=17bc92b2f30eecb6",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ec776bd4db2b4241?w={width}&ch=2e25f2e5cd9e092b",
+                            "description": "Florentine Blix hat rote Haare und ein gr\u00fcnes Oberteil. Im Hintergrund sieht man ihre Schatzkarte und Flaschenpost.",
+                            "attribution": "Lorraine Johnson/picture alliance/Dorling Kindersley/dieKLEINERT.de/Laura M\u00fcnker/WDR/mauritius images/Idalba Granada/Alamy"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3200195/3200195_59746449.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3200195/3200195_59746449.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/320/3200195/3200195_59746449.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "94677760",
+                        "coreId": "urn:ard:publication:f964ab3f70673ff9",
+                        "title": "Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr/94677760/20230810_1408",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr",
+                            "fusionId": "urn:ard:episode-fusion:b469810ec287eec0",
+                            "avContent": {
+                                "av_content": "Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr",
+                                "av_content_id": "urn:ard:publication:f964ab3f70673ff9",
+                                "av_content_duration": 2974000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr/94677760/20230810_1408",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Florentine Blix. Tatort der Kuscheltiere (2/2): Bo in Gefahr",
+                                "clipLength": "2974",
+                                "contentId": "94677760",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:f964ab3f70673ff9",
+                                "publicationDate": "20230810"
+                            }
+                        },
+                        "publishDate": "2024-10-31T07:02:00+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 10 Jahren\u2022 Edderkopp, der Freund von Bos Mutter, hat offenbar ein Testament verschwinden lassen. Und dann verschwindet auch Bo spurlos. Florentine und Maja brauchen jetzt dringend Hilfe. \r\n\r\nVon Alice Panterm\u00fcller \r\nWDR 2023 \r\nwww.wdrm",
+                        "duration": 2974,
+                        "path": "/episode/maushoerspiel-lang/florentine-blix-tatort-der-kuscheltiere-2-2-bo-in-gefahr/die-maus/94677760/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ecd6eed8ecc06df2?w={width}&ch=43986161a6e3f6e6",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:40105cb3ea47b119?w={width}&ch=4e0642cd15e97af7",
+                            "description": "Zeichnung: Florentine Blix mit roten Haaren, gr\u00fcnem Oberteil und Brille vor einer Stadtkarte.",
+                            "attribution": "mauritius images / Idalba Granada / Alamy / Alamy Stock Photos / Boris Zerwann / ddp / Alexander Limbach / picture alliance / Zoonar"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/296/2969416/maushoerspiellang_2023-08-12_florentineblixtatortderkuscheltiere22boingefahr_diemaus.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/296/2969416/maushoerspiellang_2023-08-12_florentineblixtatortderkuscheltiere22boingefahr_diemaus.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/296/2969416/2969416_53579861.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "94677764",
+                        "coreId": "urn:ard:publication:d10fdd6d48cca319",
+                        "title": "Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme/94677764/20230810_1408",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme",
+                            "fusionId": "urn:ard:episode-fusion:1cb5554f81de727a",
+                            "avContent": {
+                                "av_content": "Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme",
+                                "av_content_id": "urn:ard:publication:d10fdd6d48cca319",
+                                "av_content_duration": 3089000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme/94677764/20230810_1408",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Florentine Blix. Tatort der Kuscheltiere (1/2): Die Stimme",
+                                "clipLength": "3089",
+                                "contentId": "94677764",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:d10fdd6d48cca319",
+                                "publicationDate": "20230810"
+                            }
+                        },
+                        "publishDate": "2024-10-31T07:00:00+01:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 10 Jahren\u2022 Florentine m\u00f6chte so schnell wie m\u00f6glich wieder Ordnung in ihr Leben bringen und erkl\u00e4rt sich bereit, Bo bei der Suche nach seinem verschwundenen Cousin Jesper zu helfen. \r\n\r\nVon Alice Panterm\u00fcller \r\nWDR 2023 \r\nwww.wdrmaus.d",
+                        "duration": 3089,
+                        "path": "/episode/maushoerspiel-lang/florentine-blix-tatort-der-kuscheltiere-1-2-die-stimme/die-maus/94677764/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ecd6eed8ecc06df2?w={width}&ch=43986161a6e3f6e6",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:40105cb3ea47b119?w={width}&ch=4e0642cd15e97af7",
+                            "description": "Zeichnung: Florentine Blix mit roten Haaren, gr\u00fcnem Oberteil und Brille vor einer Stadtkarte.",
+                            "attribution": "mauritius images / Idalba Granada / Alamy / Alamy Stock Photos / Boris Zerwann / ddp / Alexander Limbach / picture alliance / Zoonar"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/296/2969418/maushoerspiellang_2023-08-12_florentineblixtatortderkuscheltiere12diestimme_diemaus.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/296/2969418/maushoerspiellang_2023-08-12_florentineblixtatortderkuscheltiere12diestimme_diemaus.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/296/2969418/2969418_53579887.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13805489",
+                        "coreId": "urn:ard:publication:4502f2a90c7349f3",
+                        "title": "Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)/13805489/20241018_1010",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)",
+                            "fusionId": "urn:ard:episode-fusion:b342986e1a325de6",
+                            "avContent": {
+                                "av_content": "Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)",
+                                "av_content_id": "urn:ard:publication:4502f2a90c7349f3",
+                                "av_content_duration": 2671000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)/13805489/20241018_1010",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Fennymores Reise oder wie man Dackel im Salzmantel macht (1/2)",
+                                "clipLength": "2671",
+                                "contentId": "13805489",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:4502f2a90c7349f3",
+                                "publicationDate": "20241018"
+                            }
+                        },
+                        "publishDate": "2024-10-19T19:06:00+02:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 Nach dem Verschwinden seiner Eltern lebt Fennymore allein in seinem gro\u00dfen Haus. Pl\u00f6tzlich geschehen allerlei mysteri\u00f6se Dinge.\r\n\r\nVon Kirsten Reinhardt\r\nWDR 2012\r\nwww.wdrmaus.de",
+                        "duration": 2671,
+                        "path": "/episode/maushoerspiel-lang/fennymores-reise-oder-wie-man-dackel-im-salzmantel-macht-1-2/die-maus/13805489/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:bd7c0c24ed8f9dd6?w={width}&ch=01e5e2eca204ae23",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:143a3bb376d0074a?w={width}&ch=172b3b8019a2f6c6",
+                            "description": "Ein Junge mit Pilotenhut sitzt auf einem Fahrrad und streckt die Arme aus.",
+                            "attribution": "Dzianis Vasilyeu / picture alliance / Zoonar"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/319/3193536/3193536_59559912.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/319/3193536/3193536_59559912.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/319/3193536/3193536_59559912.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13805485",
+                        "coreId": "urn:ard:publication:dc860e55358d26cd",
+                        "title": "Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)",
+                        "isPublished": true,
+                        "tracking": {
+                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)/13805485/20241018_1010",
+                            "chapter1": "{page.tracking.chapter1}",
+                            "chapter2": "Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)",
+                            "fusionId": "urn:ard:episode-fusion:d271ee73e7e976eb",
+                            "avContent": {
+                                "av_content": "Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)",
+                                "av_content_id": "urn:ard:publication:dc860e55358d26cd",
+                                "av_content_duration": 2534000,
+                                "av_content_type": "Audio",
+                                "av_broadcasting_type": "OnDemand",
+                                "av_institution": "WDR",
+                                "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "av_publisher": "Die Maus",
+                                "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "av_show": "MausH\u00f6rspiel lang",
+                                "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            },
+                            "play": {
+                                "title": "ARD Audiothek/{page.tracking.chapter1}/MausH\u00f6rspiel lang/Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)/13805485/20241018_1010",
+                                "chapter1": "{page.tracking.chapter1}",
+                                "chapter2": "MausH\u00f6rspiel lang",
+                                "mediaType": "audio",
+                                "mediaDistributionType": "1",
+                                "lra": "WDR",
+                                "channel": "Die Maus",
+                                "producer": "WDR",
+                                "show": "MausH\u00f6rspiel lang",
+                                "source": "WDR",
+                                "clipTitle": "Fennymores Reise oder wie man Dackel im Salzmantel macht (2/2)",
+                                "clipLength": "2534",
+                                "contentId": "13805485",
+                                "contentType": "2",
+                                "publicationId": "urn:ard:publication:dc860e55358d26cd",
+                                "publicationDate": "20241018"
+                            }
+                        },
+                        "publishDate": "2024-10-19T19:04:00+02:00",
+                        "summary": "\u2022Kinderh\u00f6rspiel, ab 8 Jahren\u2022 In Fennymores Leben herrscht ein heilloses Durcheinander. Auf der Suche nach seinen Eltern kommt er dem fiesen Doktor Uhrengut auf die Schliche.\r\n\r\nVon Kirsten Reinhardt\r\nWDR 2012\r\nwww.wdrmaus.de\r\n",
+                        "duration": 2534,
+                        "path": "/episode/maushoerspiel-lang/fennymores-reise-oder-wie-man-dackel-im-salzmantel-macht-2-2/die-maus/13805485/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:bd7c0c24ed8f9dd6?w={width}&ch=01e5e2eca204ae23",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:143a3bb376d0074a?w={width}&ch=172b3b8019a2f6c6",
+                            "description": "Ein Junge mit Pilotenhut sitzt auf einem Fahrrad und streckt die Arme aus.",
+                            "attribution": "Dzianis Vasilyeu / picture alliance / Zoonar"
+                        },
+                        "programSet": {
+                            "id": "36244846",
+                            "coreId": "urn:ard:show:d9c448e1908e53f6",
+                            "title": "MausH\u00f6rspiel lang",
+                            "path": "/sendung/maushoerspiel-lang/36244846/",
+                            "publicationService": {
+                                "title": "Die Maus",
+                                "genre": "Kultur",
+                                "path": "/radio/wdr/die-maus/",
+                                "organizationName": "WDR"
+                            }
+                        },
+                        "audios": [
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/319/3193535/3193535_59559911.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/319/3193535/3193535_59559911.mp3",
+                                "allowDownload": true
+                            },
+                            {
+                                "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/319/3193535/3193535_59559911.mp3",
+                                "mimeType": "audio/mp3",
+                                "downloadUrl": null,
+                                "allowDownload": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

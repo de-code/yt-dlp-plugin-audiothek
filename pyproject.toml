@@ -1,0 +1,13 @@
+[tool.pytest-watcher]
+now = true
+clear = false
+delay = 0.2
+runner = "venv/bin/python"
+runner_args = ["-m", "pytest"]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.format]
+quote-style = "single"
+skip-magic-trailing-comma = true

@@ -1,0 +1,6 @@
+curl 'https://api.ardaudiothek.de/graphql' \
+  -X POST \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.ardaudiothek.de' \
+  -H 'Referer: https://www.ardaudiothek.de/' \
+  --data-raw '{"query":"query ProgramSetEpisodesQuery($id:ID!,$offset:Int!,$count:Int!){result:programSet(id:$id){items(offset:$offset first:$count filter:{isPublished:{equalTo:true},itemType:{notEqualTo:EVENT_LIVESTREAM}}){pageInfo{hasNextPage endCursor}nodes{id coreId title isPublished tracking publishDate summary duration path image{url url1X1 description attribution}programSet{id coreId title path publicationService{title genre path organizationName}}audios{url mimeType downloadUrl allowDownload}}}}}","variables":{"id":"36244846","offset":24,"count":12}}'

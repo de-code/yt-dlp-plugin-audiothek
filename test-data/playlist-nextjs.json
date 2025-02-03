@@ -1,0 +1,1214 @@
+{
+    "props": {
+        "pageProps": {
+            "initialData": {
+                "data": {
+                    "result": {
+                        "numberOfElements": 95,
+                        "id": "36244846",
+                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                        "title": "MausHörspiel lang",
+                        "description": "Große Geschichten zum Mitfiebern, Mitgruseln oder Mitlachen: Die Maus präsentiert euch Kinderhörspiele für alle, die gern so richtig in anderen Welten versinken. Ihr hört Kinderbuch-Klassiker, waghalsige Zeitreisen, fantastische Märchen und heldenhafte Abenteuer - jede Folge ist mindestens 30 Minuten lang. Eine Altersempfehlung steht auch immer dabei. // www.wdrmaus.de",
+                        "editorialCategories": {
+                            "nodes": [
+                                {
+                                    "path": "/rubrik/fuer-kinder/urn:ard:page:36c12c1321f8895a/",
+                                    "title": "Für Kinder",
+                                    "id": "42914714",
+                                    "coreId": "urn:ard:page:36c12c1321f8895a"
+                                }
+                            ]
+                        },
+                        "tracking": {
+                            "title": "ARD Audiothek/Sendung/MausHörspiel lang",
+                            "chapter1": "Sendung",
+                            "page": {
+                                "page_title": "MausHörspiel lang",
+                                "page_id": "urn:ard:show:d9c448e1908e53f6",
+                                "page_chapter1": "Show",
+                                "page_institution": "WDR",
+                                "page_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                "page_publisher": "Die Maus",
+                                "page_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                "page_show": "MausHörspiel lang",
+                                "page_show_id": "urn:ard:show:d9c448e1908e53f6"
+                            }
+                        },
+                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                        "image": {
+                            "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:33b3e7234077e89f?w={width}\u0026ch=c8b3fe7d3e54e642",
+                            "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:739fb0c6b28462c0?w={width}\u0026ch=43ccd825edc7601c",
+                            "description": "Die Maus hat einen Kopfhörer auf und lehnt am Schriftzug: \"MausHörspiel lang\"",
+                            "attribution": "WDR/Schmitt-Menzel"
+                        },
+                        "publicationService": {
+                            "title": "Die Maus",
+                            "genre": "Kultur",
+                            "path": "/radio/wdr/die-maus/",
+                            "organizationName": "WDR"
+                        },
+                        "eventLivestreams": {
+                            "nodes": []
+                        },
+                        "items": {
+                            "pageInfo": {
+                                "hasNextPage": true,
+                                "endCursor": "WyJvcmRlcl9hc2MiLCJwdWJsaXNoX2RhdGVfZGVzYyIsW251bGwsIjIwMjQtMTItMjRUMTk6MDQ6MTYrMDE6MDAiLDEzOTg0MzI5XV0="
+                            },
+                            "tracking": {
+                                "widget": {
+                                    "widget_title": "Alle Episoden",
+                                    "widget_id": "items",
+                                    "widget_type": "autogen_list",
+                                    "teaser_recommended": false
+                                }
+                            },
+                            "nodes": [
+                                {
+                                    "id": "14133183",
+                                    "coreId": "urn:ard:publication:d766fe9c3177421b",
+                                    "title": "Das Elser-Eck - Die Bukowskis machen weiter",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Das Elser-Eck - Die Bukowskis machen weiter/14133183/20250131_1001",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Das Elser-Eck - Die Bukowskis machen weiter",
+                                        "fusionId": "urn:ard:episode-fusion:ddd359c22ab6be3a",
+                                        "avContent": {
+                                            "av_content": "Das Elser-Eck - Die Bukowskis machen weiter",
+                                            "av_content_id": "urn:ard:publication:d766fe9c3177421b",
+                                            "av_content_duration": 3186000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Das Elser-Eck - Die Bukowskis machen weiter/14133183/20250131_1001",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Das Elser-Eck - Die Bukowskis machen weiter",
+                                            "clipLength": "3186",
+                                            "contentId": "14133183",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:d766fe9c3177421b",
+                                            "publicationDate": "20250131"
+                                        }
+                                    },
+                                    "publishDate": "2025-02-01T19:04:00+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Die dritte und letzte Geschichte rund um die Bukowski-Kinder Katinka, Robbie und Alf. Ihre Eltern sind arm, doch ein unerwartetes Erbe eröffnet neue Möglichkeiten.\r\n\r\nVon Will Gmehling\r\nWDR 2022\r\n www.wdrmaus.de",
+                                    "duration": 3186,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/das-elser-eck-die-bukowskis-machen-weiter/die-maus/14133183/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:ac0e32db8e967c14?w={width}\u0026ch=3eeb7f10a62066b6",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:42c95dc4563a7636?w={width}\u0026ch=47f375efd437f38a",
+                                        "description": "Illustration: Eine Frau steht an der Kasse ihres Kiosk, ein Junge hat sich ein Eis gekauft.",
+                                        "attribution": "picture alliance / dieKLEINERT.de / Sabine Voigt"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/324/3244024/3244024_60989586.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/324/3244024/3244024_60989586.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/324/3244024/3244024_60989586.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "14107801",
+                                    "coreId": "urn:ard:publication:6828cf44760b3f02",
+                                    "title": "Die Amazonas-Detektive - Verschwörung im Dschungel",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Amazonas-Detektive - Verschwörung im Dschungel/14107801/20250124_1001",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Die Amazonas-Detektive - Verschwörung im Dschungel",
+                                        "fusionId": "urn:ard:episode-fusion:8bd071867d5bda25",
+                                        "avContent": {
+                                            "av_content": "Die Amazonas-Detektive - Verschwörung im Dschungel",
+                                            "av_content_id": "urn:ard:publication:6828cf44760b3f02",
+                                            "av_content_duration": 3175000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Amazonas-Detektive - Verschwörung im Dschungel/14107801/20250124_1001",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Die Amazonas-Detektive - Verschwörung im Dschungel",
+                                            "clipLength": "3175",
+                                            "contentId": "14107801",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:6828cf44760b3f02",
+                                            "publicationDate": "20250124"
+                                        }
+                                    },
+                                    "publishDate": "2025-01-25T19:04:00+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Manaus, Brasilien. Straßenjunge Pablo erhält einen Hilferuf: Sein Freund, ein Umweltaktivist, scheint entführt worden zu sein. Die Suche führt Pablo in den brasilianischen Urwald und ein abenteuerlicher Wettlauf gegen die Zei",
+                                    "duration": 3175,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/die-amazonas-detektive-verschwoerung-im-dschungel/die-maus/14107801/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:cb564ff730b8331e?w={width}\u0026ch=11be41a96f2f3bf5",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:82e9c6e947a6e1ad?w={width}\u0026ch=eb358f3a1a0d12db",
+                                        "description": "Illustration: Bunte tropische Pflanzen im Regenwald.",
+                                        "attribution": "Multipedia / picture alliance / Zoonar"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/324/3240584/3240584_60895358.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/324/3240584/3240584_60895358.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/324/3240584/3240584_60895358.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984649",
+                                    "coreId": "urn:ard:publication:1f03b59bfc353d28",
+                                    "title": "Frau Wolle (3/3): Die Welt hinter der Welt",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (3/3): Die Welt hinter der Welt/13984649/20241212_1212",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Frau Wolle (3/3): Die Welt hinter der Welt",
+                                        "fusionId": "urn:ard:episode-fusion:32980cd7d0a9e354",
+                                        "avContent": {
+                                            "av_content": "Frau Wolle (3/3): Die Welt hinter der Welt",
+                                            "av_content_id": "urn:ard:publication:1f03b59bfc353d28",
+                                            "av_content_duration": 2819000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (3/3): Die Welt hinter der Welt/13984649/20241212_1212",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Frau Wolle (3/3): Die Welt hinter der Welt",
+                                            "clipLength": "2819",
+                                            "contentId": "13984649",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:1f03b59bfc353d28",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2025-01-04T19:10:50+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Merle und Moritz vermissen ihren Vater sehr. Doch sie wissen genau: Er wird zurückkommen! Und er wird ihnen glauben, was sie erlebt haben in der Welt hinter der Welt.\r\n\r\nVon Jutta Richter\r\nWDR 2021\r\nwww.wdrmaus.de",
+                                    "duration": 2819,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/frau-wolle-3-3-die-welt-hinter-der-welt/die-maus/13984649/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e3e5f9c22fe57a32?w={width}\u0026ch=f17149879a2b822a",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:6f43ce8327a91fcd?w={width}\u0026ch=707c7be35fae5596",
+                                        "description": "Eine märchenhafte Tür im Wald.",
+                                        "attribution": "mageBROKER / newspixx vario ima"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221164/3221164_60345650.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221164/3221164_60345650.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221164/3221164_60345650.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984651",
+                                    "coreId": "urn:ard:publication:225d019f104594cb",
+                                    "title": "Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche/13984651/20241212_1212",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche",
+                                        "fusionId": "urn:ard:episode-fusion:4bbb5d1213942424",
+                                        "avContent": {
+                                            "av_content": "Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche",
+                                            "av_content_id": "urn:ard:publication:225d019f104594cb",
+                                            "av_content_duration": 2660000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche/13984651/20241212_1212",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Frau Wolle (2/3): Das Geheimnis der chinesischen Papierschirmche",
+                                            "clipLength": "2660",
+                                            "contentId": "13984651",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:225d019f104594cb",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2025-01-04T19:08:36+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Merle und Moritz sind bereit für ein neues Abenteuer! Ihre seltsame Nachtfrau Gesine Wolkenstein gibt den Geschwistern Rätsel auf. Was hat es nur mit ihrem schwarzen Laden auf sich?\r\n\r\nVon Jutta Richter\r\nWDR 2021\r\nwww.wdrmaus",
+                                    "duration": 2660,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/frau-wolle-2-3-das-geheimnis-der-chinesischen-papierschirmche/die-maus/13984651/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e3e5f9c22fe57a32?w={width}\u0026ch=f17149879a2b822a",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:6f43ce8327a91fcd?w={width}\u0026ch=707c7be35fae5596",
+                                        "description": "Eine märchenhafte Tür im Wald.",
+                                        "attribution": "mageBROKER / newspixx vario ima"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221165/3221165_60345651.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221165/3221165_60345651.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221165/3221165_60345651.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984635",
+                                    "coreId": "urn:ard:publication:fe60b2c9475d0bdf",
+                                    "title": "Frau Wolle (1/3): Der Duft von Schokolade",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (1/3): Der Duft von Schokolade/13984635/20241212_1212",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Frau Wolle (1/3): Der Duft von Schokolade",
+                                        "fusionId": "urn:ard:episode-fusion:fd594af824cb118b",
+                                        "avContent": {
+                                            "av_content": "Frau Wolle (1/3): Der Duft von Schokolade",
+                                            "av_content_id": "urn:ard:publication:fe60b2c9475d0bdf",
+                                            "av_content_duration": 2541000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Frau Wolle (1/3): Der Duft von Schokolade/13984635/20241212_1212",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Frau Wolle (1/3): Der Duft von Schokolade",
+                                            "clipLength": "2541",
+                                            "contentId": "13984635",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:fe60b2c9475d0bdf",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2025-01-04T19:06:54+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Seit die \"Nachtfrau\" Gesine Wolkenstein auf die Geschwister Merle und Moritz aufpasst, wenn ihre Mama Nachtdienst im Krankenhaus hat, passieren merkwürdige Dinge im Haus.\r\n\r\nVon Jutta Richter\r\nWDR 2021\r\nwww.wdrmaus.de",
+                                    "duration": 2541,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/frau-wolle-1-3-der-duft-von-schokolade/die-maus/13984635/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:e3e5f9c22fe57a32?w={width}\u0026ch=f17149879a2b822a",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:6f43ce8327a91fcd?w={width}\u0026ch=707c7be35fae5596",
+                                        "description": "Eine märchenhafte Tür im Wald.",
+                                        "attribution": "mageBROKER / newspixx vario ima"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221163/3221163_60345622.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221163/3221163_60345622.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221163/3221163_60345622.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984913",
+                                    "coreId": "urn:ard:publication:c038f8b82f216085",
+                                    "title": "Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard/13984913/20241212_1412",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard",
+                                        "fusionId": "urn:ard:episode-fusion:91bb8cd4f3e099d2",
+                                        "avContent": {
+                                            "av_content": "Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard",
+                                            "av_content_id": "urn:ard:publication:c038f8b82f216085",
+                                            "av_content_duration": 2842000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard/13984913/20241212_1412",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Was? Wenn! - Eine tragische Liebe zwischen Kuh und Bussard",
+                                            "clipLength": "2842",
+                                            "contentId": "13984913",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:c038f8b82f216085",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-28T19:06:33+01:00",
+                                    "summary": "•Kinderhörspiel, ab 6 Jahren• Wer sagt, dass das Leben einer Kuh eintönig sein muss? Dass sie nicht träumen, forschen, tanzen oder trommeln darf? Das Kinderhörspiel von Bestsellerautorin Claudia Schreiber erzählt von einer rebellischen Herde und einer tra",
+                                    "duration": 2842,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/was-wenn-eine-tragische-liebe-zwischen-kuh-und-bussard/die-maus/13984913/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:61a8fe6c15076cac?w={width}\u0026ch=2f61de7f550dc439",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:515f46aeeb599826?w={width}\u0026ch=53f184d155fa7699",
+                                        "description": "Illustration: Eine lachende Kuh.",
+                                        "attribution": "Igor Zakowski-picture alliance-Zoonar"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221233/3221233_60348258.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221233/3221233_60348258.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221233/3221233_60348258.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984357",
+                                    "coreId": "urn:ard:publication:4460436e18ad97aa",
+                                    "title": "Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest/13984357/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest",
+                                        "fusionId": "urn:ard:episode-fusion:7ad4b82f5ed1b7ca",
+                                        "avContent": {
+                                            "av_content": "Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest",
+                                            "av_content_id": "urn:ard:publication:4460436e18ad97aa",
+                                            "av_content_duration": 2705000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest/13984357/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Die Unsinkbaren Drei: Weihnachten - Frohes Piraten-Fest",
+                                            "clipLength": "2705",
+                                            "contentId": "13984357",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:4460436e18ad97aa",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:14:04+01:00",
+                                    "summary": "•Kinderhörspiel, ab 6 Jahren• Kapitän Flitschauge hat dieses Jahr nur einen einzigen Wunsch: Er möchte endlich mal ein ruhiges und besinnliches Weihnachtsfest erleben. Keine leichte Aufgabe, denn seine Mannschaft versteht alles auf ihre ganz eigene - eben",
+                                    "duration": 2705,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/die-unsinkbaren-drei-weihnachten-frohes-piraten-fest/die-maus/13984357/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9429a4bff249a331?w={width}\u0026ch=4018c0e991a83c68",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5d7e7c32244204b9?w={width}\u0026ch=a916bf1cad48648c",
+                                        "description": "Illustration: Der Weihnachtsmann als Pirat, mit Pinguin auf der Schulter.",
+                                        "attribution": "picture alliance / PantherMedia / Igor Sapozhkov"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221107/3221107_60344272.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221107/3221107_60344272.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221107/3221107_60344272.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984349",
+                                    "coreId": "urn:ard:publication:50707354a1f7e5fd",
+                                    "title": "Die Schule der Weihnachtsmänner (3/3): Die Wette",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (3/3): Die Wette/13984349/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Die Schule der Weihnachtsmänner (3/3): Die Wette",
+                                        "fusionId": "urn:ard:episode-fusion:31c5fcc4fd3b52f4",
+                                        "avContent": {
+                                            "av_content": "Die Schule der Weihnachtsmänner (3/3): Die Wette",
+                                            "av_content_id": "urn:ard:publication:50707354a1f7e5fd",
+                                            "av_content_duration": 2922000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (3/3): Die Wette/13984349/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Die Schule der Weihnachtsmänner (3/3): Die Wette",
+                                            "clipLength": "2922",
+                                            "contentId": "13984349",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:50707354a1f7e5fd",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:12:55+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Die Weihnachtskläuse haben alle Hände voll zu tun mit Briefen. Gleichzeitig offenbart sich eine fiese Wette zwischen dem vermeintlich echten Weihnachtsmann mit Sankt Nikolaus. Mücke fasst den Entschluss, die Wahrheit aufzudec",
+                                    "duration": 2922,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/die-schule-der-weihnachtsmaenner-3-3-die-wette/die-maus/13984349/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a4ba23f168b8914e?w={width}\u0026ch=8ce56b248a647bd7",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:64bebba86452f588?w={width}\u0026ch=c49a6d21eac22012",
+                                        "description": "Illustration zum Kinderhörspiel \"Die Schule der Weihnachtsmänner\": Weihnachtsmänner sitzen auf einer Schulbank.",
+                                        "attribution": "der Hörverlag/WDR/Trompetter"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221108/3221108_60344271.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221108/3221108_60344271.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221108/3221108_60344271.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984341",
+                                    "coreId": "urn:ard:publication:755c73526d3c4a49",
+                                    "title": "Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald/13984341/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald",
+                                        "fusionId": "urn:ard:episode-fusion:a348e839012e185d",
+                                        "avContent": {
+                                            "av_content": "Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald",
+                                            "av_content_id": "urn:ard:publication:755c73526d3c4a49",
+                                            "av_content_duration": 2398000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald/13984341/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Die Schule der Weihnachtsmänner (2/3): Die Hütte im Wald",
+                                            "clipLength": "2398",
+                                            "contentId": "13984341",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:755c73526d3c4a49",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:10:29+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• In den ersten Schulstunden wird gelehrt, wie sich ein echter Weihnachtsmann zu verhalten hat. Der Aschenmann nimmt Mücke mit in eine Hütte und zeigt ihm liebevolle Briefe von Kindern aus aller Welt. Dort begegnet Mücke auch d",
+                                    "duration": 2398,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/die-schule-der-weihnachtsmaenner-2-3-die-huette-im-wald/die-maus/13984341/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a4ba23f168b8914e?w={width}\u0026ch=8ce56b248a647bd7",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:64bebba86452f588?w={width}\u0026ch=c49a6d21eac22012",
+                                        "description": "Illustration zum Kinderhörspiel \"Die Schule der Weihnachtsmänner\": Weihnachtsmänner sitzen auf einer Schulbank.",
+                                        "attribution": "der Hörverlag/WDR/Trompetter"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221105/3221105_60344208.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221105/3221105_60344208.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221105/3221105_60344208.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984345",
+                                    "coreId": "urn:ard:publication:5f76d35391656f8e",
+                                    "title": "Die Schule der Weihnachtsmänner (1/3): Der Nebelberg",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (1/3): Der Nebelberg/13984345/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Die Schule der Weihnachtsmänner (1/3): Der Nebelberg",
+                                        "fusionId": "urn:ard:episode-fusion:cc3f56e3e4e5e26e",
+                                        "avContent": {
+                                            "av_content": "Die Schule der Weihnachtsmänner (1/3): Der Nebelberg",
+                                            "av_content_id": "urn:ard:publication:5f76d35391656f8e",
+                                            "av_content_duration": 1814000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Die Schule der Weihnachtsmänner (1/3): Der Nebelberg/13984345/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Die Schule der Weihnachtsmänner (1/3): Der Nebelberg",
+                                            "clipLength": "1814",
+                                            "contentId": "13984345",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:5f76d35391656f8e",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:08:09+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Maurelio Porcellani, genannt Mücke, wird vom Aschenmann ins Weihnachtsland entführt. Angekommen am Nebelberg wird er in die Schule der Weihnachtsmänner eingeschult.\r\n\r\nVon Karlheinz Koinegg\r\nWDR 2013\r\nwww.wdrmaus.de",
+                                    "duration": 1814,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/die-schule-der-weihnachtsmaenner-1-3-der-nebelberg/die-maus/13984345/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:a4ba23f168b8914e?w={width}\u0026ch=8ce56b248a647bd7",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:64bebba86452f588?w={width}\u0026ch=c49a6d21eac22012",
+                                        "description": "Illustration zum Kinderhörspiel \"Die Schule der Weihnachtsmänner\": Weihnachtsmänner sitzen auf einer Schulbank.",
+                                        "attribution": "der Hörverlag/WDR/Trompetter"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221106/3221106_60344209.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221106/3221106_60344209.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221106/3221106_60344209.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984331",
+                                    "coreId": "urn:ard:publication:09557e652786b15f",
+                                    "title": "Der verborgene Schatz (2/2): Wundersame Träume",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Der verborgene Schatz (2/2): Wundersame Träume/13984331/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Der verborgene Schatz (2/2): Wundersame Träume",
+                                        "fusionId": "urn:ard:episode-fusion:b2e406436a589943",
+                                        "avContent": {
+                                            "av_content": "Der verborgene Schatz (2/2): Wundersame Träume",
+                                            "av_content_id": "urn:ard:publication:09557e652786b15f",
+                                            "av_content_duration": 2087000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Der verborgene Schatz (2/2): Wundersame Träume/13984331/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Der verborgene Schatz (2/2): Wundersame Träume",
+                                            "clipLength": "2087",
+                                            "contentId": "13984331",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:09557e652786b15f",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:06:17+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Gleich zweimal wird Muhar von Räubern gefangen genommen. Ohne sein Pferd und ohne Wasser muss er den Weg durch die Wüste finden.\r\n\r\nVon Paul Maar\r\nWDR 2004\r\nwww.wdrmaus.de",
+                                    "duration": 2087,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/der-verborgene-schatz-2-2-wundersame-traeume/die-maus/13984331/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7ca8e2458f5fc5b5?w={width}\u0026ch=1995eb61f701a7fc",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:aedb5cef983c073b?w={width}\u0026ch=24231761c831efc2",
+                                        "description": "Illustration: Eine prall gefüllte Schatzkiste.",
+                                        "attribution": "Chromorange / newspixx vario images"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221099/3221099_60344049.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221099/3221099_60344049.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221099/3221099_60344049.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "13984329",
+                                    "coreId": "urn:ard:publication:3dc25e90258fdfc3",
+                                    "title": "Der verborgene Schatz (1/2): Der kleine und der große Muhar",
+                                    "tracking": {
+                                        "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Der verborgene Schatz (1/2): Der kleine und der große Muhar/13984329/20241212_1112",
+                                        "chapter1": "{page.tracking.chapter1}",
+                                        "chapter2": "Der verborgene Schatz (1/2): Der kleine und der große Muhar",
+                                        "fusionId": "urn:ard:episode-fusion:6c2d749a440fd5cd",
+                                        "avContent": {
+                                            "av_content": "Der verborgene Schatz (1/2): Der kleine und der große Muhar",
+                                            "av_content_id": "urn:ard:publication:3dc25e90258fdfc3",
+                                            "av_content_duration": 2257000,
+                                            "av_content_type": "Audio",
+                                            "av_broadcasting_type": "OnDemand",
+                                            "av_institution": "WDR",
+                                            "av_institution_id": "urn:ard:institution:64116dc5ded2ba17",
+                                            "av_publisher": "Die Maus",
+                                            "av_publisher_id": "urn:ard:publisher:32a2d9c329891a0b",
+                                            "av_show": "MausHörspiel lang",
+                                            "av_show_id": "urn:ard:show:d9c448e1908e53f6"
+                                        },
+                                        "play": {
+                                            "title": "ARD Audiothek/{page.tracking.chapter1}/MausHörspiel lang/Der verborgene Schatz (1/2): Der kleine und der große Muhar/13984329/20241212_1112",
+                                            "chapter1": "{page.tracking.chapter1}",
+                                            "chapter2": "MausHörspiel lang",
+                                            "mediaType": "audio",
+                                            "mediaDistributionType": "1",
+                                            "lra": "WDR",
+                                            "channel": "Die Maus",
+                                            "producer": "WDR",
+                                            "show": "MausHörspiel lang",
+                                            "source": "WDR",
+                                            "clipTitle": "Der verborgene Schatz (1/2): Der kleine und der große Muhar",
+                                            "clipLength": "2257",
+                                            "contentId": "13984329",
+                                            "contentType": "2",
+                                            "publicationId": "urn:ard:publication:3dc25e90258fdfc3",
+                                            "publicationDate": "20241212"
+                                        }
+                                    },
+                                    "publishDate": "2024-12-24T19:04:16+01:00",
+                                    "summary": "•Kinderhörspiel, ab 8 Jahren• Muhar verliebt sich unsterblich in die hochmütige Tochter eines reichen Kaufmanns. Um ihr Herz zu erobern, begibt er sich auf eine lange und gefährliche Reise.\r\n\r\nVon Paul Maar\r\nWDR 2004\r\nwww.wdrmaus.de",
+                                    "duration": 2257,
+                                    "coreType": "EPISODE",
+                                    "isPublished": true,
+                                    "path": "/episode/maushoerspiel-lang/der-verborgene-schatz-1-2-der-kleine-und-der-grosse-muhar/die-maus/13984329/",
+                                    "image": {
+                                        "url": "https://api.ardmediathek.de/image-service/images/urn:ard:image:7ca8e2458f5fc5b5?w={width}\u0026ch=1995eb61f701a7fc",
+                                        "url1X1": "https://api.ardmediathek.de/image-service/images/urn:ard:image:aedb5cef983c073b?w={width}\u0026ch=24231761c831efc2",
+                                        "description": "Illustration: Eine prall gefüllte Schatzkiste.",
+                                        "attribution": "Chromorange / newspixx vario images"
+                                    },
+                                    "programSet": {
+                                        "id": "36244846",
+                                        "coreId": "urn:ard:show:d9c448e1908e53f6",
+                                        "title": "MausHörspiel lang",
+                                        "path": "/sendung/maushoerspiel-lang/36244846/",
+                                        "publicationService": {
+                                            "title": "Die Maus",
+                                            "genre": "Kultur",
+                                            "path": "/radio/wdr/die-maus/",
+                                            "organizationName": "WDR"
+                                        }
+                                    },
+                                    "audios": [
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221100/3221100_60344048.mp3",
+                                            "downloadUrl": "https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/322/3221100/3221100_60344048.mp3",
+                                            "allowDownload": true
+                                        },
+                                        {
+                                            "mimeType": "audio/mp3",
+                                            "url": "https://wdrmedien-a.akamaihd.net/medp/ondemand/weltweit/fsk0/322/3221100/3221100_60344048.mp3",
+                                            "downloadUrl": null,
+                                            "allowDownload": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "deviceType": "responsive",
+        "rubricsData": {
+            "data": {
+                "editorialCategories": {
+                    "title": "Rubriken",
+                    "nodes": [
+                        {
+                            "path": "/rubrik/doku-und-reportage/urn:ard:page:7579bb850e2c3840/",
+                            "id": "42914710",
+                            "coreId": "urn:ard:page:7579bb850e2c3840",
+                            "title": "Doku \u0026 Reportage"
+                        },
+                        {
+                            "path": "/rubrik/politik-und-hintergrund/urn:ard:page:41a5488983bdb8de/",
+                            "id": "51850530",
+                            "coreId": "urn:ard:page:41a5488983bdb8de",
+                            "title": "Politik \u0026 Hintergrund"
+                        },
+                        {
+                            "path": "/rubrik/true-crime/urn:ard:page:467ed2da9736390f/",
+                            "id": "63764892",
+                            "coreId": "urn:ard:page:467ed2da9736390f",
+                            "title": "True Crime"
+                        },
+                        {
+                            "path": "/rubrik/hoerspiel/urn:ard:page:5e1d7c3a0e180911/",
+                            "id": "42914712",
+                            "coreId": "urn:ard:page:5e1d7c3a0e180911",
+                            "title": "Hörspiel"
+                        },
+                        {
+                            "path": "/rubrik/hoerbuch/urn:ard:page:456250451bf5b187/",
+                            "id": "42914713",
+                            "coreId": "urn:ard:page:456250451bf5b187",
+                            "title": "Hörbuch "
+                        },
+                        {
+                            "path": "/rubrik/fuer-kinder/urn:ard:page:36c12c1321f8895a/",
+                            "id": "42914714",
+                            "coreId": "urn:ard:page:36c12c1321f8895a",
+                            "title": "Für Kinder"
+                        },
+                        {
+                            "path": "/rubrik/wissen/urn:ard:page:43e30535e5596a5f/",
+                            "id": "42914742",
+                            "coreId": "urn:ard:page:43e30535e5596a5f",
+                            "title": "Wissen"
+                        },
+                        {
+                            "path": "/rubrik/geschichte/urn:ard:page:5f788240a7a0e2e0/",
+                            "id": "42914743",
+                            "coreId": "urn:ard:page:5f788240a7a0e2e0",
+                            "title": "Geschichte"
+                        },
+                        {
+                            "path": "/rubrik/kriege-und-konflikte/urn:ard:page:8c7006e359e5ea19/",
+                            "id": "9912345",
+                            "coreId": "urn:ard:page:8c7006e359e5ea19",
+                            "title": "Kriege \u0026 Konflikte"
+                        },
+                        {
+                            "path": "/rubrik/musik-entdecken/urn:ard:page:5bfb67dbd69f048f/",
+                            "id": "42914724",
+                            "coreId": "urn:ard:page:5bfb67dbd69f048f",
+                            "title": "Musik entdecken"
+                        },
+                        {
+                            "path": "/rubrik/liebe-sex-und-leben/urn:ard:page:845fb6ba3af7937e/",
+                            "id": "63927336",
+                            "coreId": "urn:ard:page:845fb6ba3af7937e",
+                            "title": "Liebe, Sex \u0026 Leben"
+                        },
+                        {
+                            "path": "/rubrik/comedy-und-satire/urn:ard:page:151b74ca30c20df7/",
+                            "id": "42914694",
+                            "coreId": "urn:ard:page:151b74ca30c20df7",
+                            "title": "Comedy \u0026 Satire"
+                        },
+                        {
+                            "path": "/rubrik/sportschau/urn:ard:page:cebf0dfe68c7f771/",
+                            "id": "42914734",
+                            "coreId": "urn:ard:page:cebf0dfe68c7f771",
+                            "title": "Sportschau"
+                        },
+                        {
+                            "path": "/rubrik/kultur/urn:ard:page:f3bed631cd429d14/",
+                            "id": "42914736",
+                            "coreId": "urn:ard:page:f3bed631cd429d14",
+                            "title": "Kultur"
+                        },
+                        {
+                            "path": "/rubrik/gesellschaft/urn:ard:page:e0b032b767ec23a4/",
+                            "id": "42914720",
+                            "coreId": "urn:ard:page:e0b032b767ec23a4",
+                            "title": "Gesellschaft"
+                        },
+                        {
+                            "path": "/rubrik/wirtschaft/urn:ard:page:8f52a218cbe97db8/",
+                            "id": "42914740",
+                            "coreId": "urn:ard:page:8f52a218cbe97db8",
+                            "title": "Wirtschaft"
+                        },
+                        {
+                            "path": "/rubrik/religion-und-philosophie/urn:ard:page:9922a519fa981fc0/",
+                            "id": "42914732",
+                            "coreId": "urn:ard:page:9922a519fa981fc0",
+                            "title": "Religion \u0026 Philosophie"
+                        },
+                        {
+                            "path": "/rubrik/retro/urn:ard:page:1f2f8bb6820c9166/",
+                            "id": "74928578",
+                            "coreId": "urn:ard:page:1f2f8bb6820c9166",
+                            "title": "Retro"
+                        }
+                    ]
+                }
+            }
+        },
+        "channelData": {
+            "data": {
+                "organizations": {
+                    "nodes": [
+                        {
+                            "name": "ARD"
+                        },
+                        {
+                            "name": "BR"
+                        },
+                        {
+                            "name": "HR"
+                        },
+                        {
+                            "name": "MDR"
+                        },
+                        {
+                            "name": "NDR"
+                        },
+                        {
+                            "name": "RadioBremen"
+                        },
+                        {
+                            "name": "RBB"
+                        },
+                        {
+                            "name": "SR"
+                        },
+                        {
+                            "name": "SWR"
+                        },
+                        {
+                            "name": "WDR"
+                        },
+                        {
+                            "name": "funk"
+                        },
+                        {
+                            "name": "KiKA"
+                        },
+                        {
+                            "name": "Deutschlandradio"
+                        },
+                        {
+                            "name": "phoenix"
+                        }
+                    ]
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/sendung/[title]/[showId]",
+    "query": {
+        "title": "maushoerspiel-lang",
+        "showId": "36244846"
+    },
+    "buildId": "hu5Q_LODx-rAhxw08-s-f",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "gssp": true,
+    "appGip": true,
+    "scriptLoader": []
+}
