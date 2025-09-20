@@ -78,7 +78,7 @@ def _iter_entry_dict_for_nextjs_dict(nextjs_dict: dict) -> Iterable[dict]:
 
 class ArdAudioThekAudioIE(InfoExtractor):
     _VALID_URL: str = (
-        r'https?://www\.ardaudiothek\.de/episode/(?P<playlist_display_id>[^/]+)(?:/[^?]*)?/(?P<id>\d+)/'  # type: ignore
+        r'https?://www\.ardaudiothek\.de/episode/urn:ard:episode:(?P<id>[^/]+)/'  # type: ignore
     )
 
     def _search_ld_data_dict(self, webpage: str, video_id: str, *, fatal=True, **kw) -> dict:
@@ -102,6 +102,12 @@ class ArdAudioThekAudioIE(InfoExtractor):
         for key in ['series', 'title', 'description', 'upload_date']:
             self.to_screen(f'[info] {key}: {repr(info_dict[key])}')
         return info_dict
+
+
+class OldArdAudioThekAudioIE(ArdAudioThekAudioIE):
+    _VALID_URL: str = (
+        r'https?://www\.ardaudiothek\.de/episode/(?P<playlist_display_id>[^/]+)(?:/[^?]*)?/(?P<id>\d+)/'  # type: ignore
+    )
 
 
 class ArdAudioThekPlaylistIE(InfoExtractor):
@@ -200,7 +206,10 @@ class ArdAudioThekPlaylistIE(InfoExtractor):
             if not path_match:
                 self.write_debug(f'[info] ignoring non-matching path: {repr(path)} ({repr(url)})')
                 continue
-            if path_match.group('playlist_display_id') != playlist_display_id:
+            group_dict = path_match.groupdict()
+            if 'playlist_display_id' not in group_dict:
+                self.write_debug(f'[debug] no playlist display id in group dict: {group_dict}')
+            elif path_match.group('playlist_display_id') != playlist_display_id:
                 self.to_screen(f'[info] ignoring not matching playlist display id: {repr(path)}')
             yield self.url_result(
                 ie=ArdAudioThekAudioIE.ie_key(),

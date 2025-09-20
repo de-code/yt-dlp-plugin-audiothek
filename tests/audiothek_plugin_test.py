@@ -1,8 +1,11 @@
 import json
 from pathlib import Path
+import re
 import pytest
 
 from yt_dlp_plugins.extractor.audiothek_plugin import (
+    ArdAudioThekAudioIE,
+    OldArdAudioThekAudioIE,
     _get_info_dict_for_ld_data_dict,
     _iter_entry_dict_for_nextjs_dict
 )
@@ -75,3 +78,20 @@ class TestIterEntryDictForNextjsDict:
     def test_should_extract_episodes(self, playlist_nextjs_json: dict):
         entries = list(_iter_entry_dict_for_nextjs_dict(playlist_nextjs_json))
         assert entries
+
+
+class TestMatchUrl:
+    def test_should_match_original_url(self):
+        match = re.match(OldArdAudioThekAudioIE._VALID_URL, (
+            'https://www.ardaudiothek.de/episode/maushoerspiel-lang/die-amazonas-detektive-verschwoerung-im-dschungel/die-maus/14107801/'
+        ))
+        assert match
+        assert match.group('playlist_display_id') == 'maushoerspiel-lang'
+        assert match.group('id') == '14107801'
+
+    def test_should_match_url_using_urn(self):
+        match = re.match(ArdAudioThekAudioIE._VALID_URL, (
+            'https://www.ardaudiothek.de/episode/urn:ard:episode:6828cf44760b3f02/'
+        ))
+        assert match
+        assert match.group('id') == '6828cf44760b3f02'
