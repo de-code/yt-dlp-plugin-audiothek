@@ -198,7 +198,7 @@ class ArdAudioThekPlaylistIE(InfoExtractor):
             url = urljoin(base_url, path)
             path_match = re.match(ArdAudioThekAudioIE._VALID_URL, url)  # pylint: disable=protected-access
             if not path_match:
-                self.write_debug(f'[info] ignoring non-matching path: {repr(path)}')
+                self.write_debug(f'[info] ignoring non-matching path: {repr(path)} ({repr(url)})')
                 continue
             if path_match.group('playlist_display_id') != playlist_display_id:
                 self.to_screen(f'[info] ignoring not matching playlist display id: {repr(path)}')
